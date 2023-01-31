@@ -1,6 +1,6 @@
 # modularproject
 
-Exemplo de projeto com modular
+Exemplo de projeto com flutter modular
 
 
 
